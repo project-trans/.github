@@ -6,3 +6,7 @@
 > 如果你能记住我的名字，如果你们都能记住我的名字，也许我或者“我们”，终有一天能自由地生存着。
 >
 > ——— 可橙
+
+- [MtF.wiki](https://mtf.wiki)
+- [RLE.wiki](https://rle.wiki)
+- [跨性别导航 kuaer.club](https://kuaer.club)
