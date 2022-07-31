@@ -1,4 +1,5 @@
-# [MtF.wiki](https://mtf.wiki)
+<!-- markdownlint-disable-next-line -->
+[![MtF.wiki](/profile/mtf-wiki.svg)](https://mtf.wiki)
 
 > 不向焦虑与抑郁投降，这个世界终会有我们存在的地方
 >
