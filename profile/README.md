@@ -12,6 +12,7 @@
 ## 站点列表
 
 - [MtF.wiki](https://mtf.wiki)
+- [MtF.wiki Blog](https://blog.mtf.wiki)
 - [RLE.wiki](https://rle.wiki)
 - [跨性别导航 kuaer.club](https://kuaer.club)
 - [成为女孩子的声音！](https://mtf-wiki.github.io/jyosei-guide)
